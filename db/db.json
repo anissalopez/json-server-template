@@ -3,27 +3,27 @@
     {
       "id": 1,
       "habit": "Make my bed",
-      "completed": false
+      "Day": [{"Monday": false}, {"Tuesday": false}, {"Wednesday": false}, {"Thursday": false}, {"Friday": false}, {"Saturday": false}, {"Sunday": false}]
     },
     {
       "id": 2,
       "habit": "10,000 steps",
-      "completed": false
+      "Day": [{"Monday": false}, {"Tuesday": false}, {"Wednesday": false}, {"Thursday": false}, {"Friday": false}, {"Saturday": false}, {"Sunday": false}]
     },
     {
       "id": 3,
       "habit": "Workout",
-      "completed": false
+      "Day": [{"Monday": false}, {"Tuesday": false}, {"Wednesday": false}, {"Thursday": false}, {"Friday": false}, {"Saturday": false}, {"Sunday": false}]
     },
     {
       "id": 4,
       "habit": "Drink 100oz of water",
-      "completed": false
+      "Day": [{"Monday": false}, {"Tuesday": false}, {"Wednesday": false}, {"Thursday": false}, {"Friday": false}, {"Saturday": false}, {"Sunday": false}]
     },
     {
       "id": 5,
       "habit": "Journal",
-      "completed": false
+      "Day": [{"Monday": false}, {"Tuesday": false}, {"Wednesday": false}, {"Thursday": false}, {"Friday": false}, {"Saturday": false}, {"Sunday": false}]
     } 
   ]
 }
